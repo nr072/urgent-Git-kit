@@ -2,5 +2,5 @@ Baa, baa, black sheep,
 Have you any wool?
 Yes, sir, yes, sir,
 Three bags full;
-Wool for the sweater,
+Wool for the sweater
 And gloves for my game!
